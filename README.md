@@ -1,5 +1,7 @@
 
 # ScrumLab
 
-Aplikacja zawierająca przepisy kucharskie, umożliwiająca użytkownikowi przeglądanie przepisów, dodawanie własnych przepisów oraz planowanie posiłków. 
-Projekt grupowy (zespół 5 osób) skupiający się na realizacji projektu w zespole deweloperskim zgodnie z metodyką SCRUM.
+An application containing recipes and enabling meal planning. A group project implemented in accordance with SCRUM methodology.
+
+## The implementation used:
+Python, Django, PostgreSQL, HTML5, CSS.
